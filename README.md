@@ -95,14 +95,6 @@ Building scalable web applications and AI-powered products.
 
 ---
 
-## 🤝 Let's Connect
-
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-- 🌐 Portfolio: https://YOUR_WEBSITE.com
-- 📧 Email: your@email.com
-
----
-
 <div align="center">
 
 ### ⭐ Thanks for visiting!
