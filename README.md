@@ -59,15 +59,39 @@ Building scalable web applications and AI-powered products.
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prospdev213&show_icons=true&theme=tokyonight)
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=prospdev213&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prospdev213&layout=compact&theme=tokyonight)
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prospdev213&layout=compact&theme=tokyonight&hide_border=true"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=prospdev213&theme=tokyonight)
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=prospdev213&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophy
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=prospdev213&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prospdev213&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -86,7 +110,7 @@ Building scalable web applications and AI-powered products.
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 Goals
 
 - 🚀 Contribute more to Open Source
 - 🤖 Build production AI applications
