@@ -1,4 +1,4 @@
-# Hi there 👋 I'm O ZX
+# Hi there 👋 I'm Prosp Dev.
 
 <div align="center">
 
@@ -12,12 +12,12 @@ Building scalable web applications and AI-powered products.
 
 ## 👨‍💻 About Me
 
-- 💼 Full Stack Developer
+- 💼 Full Stack Developer with over 8 years of experience
 - ⚛️ React • Next.js • React Native
 - 🛠️ NestJS • Node.js • TypeScript
 - 🗄️ PostgreSQL • Redis • TypeORM
-- ☁️ AWS • Docker
-- 🤖 Learning AI Agents, RAG, LangChain, LLMs
+- ☁️ AWS • Docker • Render
+- 🤖 AI Agents, RAG, LangChain, LLMs
 - 🌱 Always learning new technologies
 - 🎯 Goal: Build intelligent applications that solve real-world problems
 
@@ -25,23 +25,31 @@ Building scalable web applications and AI-powered products.
 
 ## 🛠 Tech Stack
 
-### Frontend
+### 🎨 Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
 
-### Backend
+### ⚙️ Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-### Database
+### 🗄️ Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Cloud & DevOps
 
