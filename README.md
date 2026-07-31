@@ -77,16 +77,6 @@ Building scalable web applications and AI-powered products.
 
 ---
 
-# 🏆 GitHub Trophy
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=prospdev213&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
 # 📈 Contribution Graph
 
 <div align="center">
